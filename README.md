@@ -22,10 +22,10 @@ git config --list
 📁 Repository setup
 
 
-gli clone  git@github.com:Ghoshpulak/Devsecops_task_Pulak25.git
+git clone  git@github.com:Ghoshpulak/Devsecops_task_Pulak25.git
 
 
-Task performed
+🔗Task performed
 
 
 
@@ -53,7 +53,7 @@ git status
 
  git commit -m
 
- git push
+🚀 git push
 
 
  git pull
