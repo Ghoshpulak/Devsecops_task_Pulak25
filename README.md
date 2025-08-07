@@ -1,4 +1,10 @@
-devops hand_task
+🔗Devsecops_hand_task
+
+
+Git_Practice
+
+DATE:-2025_08_07
+
 
 
 🔧git configuration
